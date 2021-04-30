@@ -1,0 +1,4 @@
+*.pyc
+log
+tensorflow/
+.DS_Store
